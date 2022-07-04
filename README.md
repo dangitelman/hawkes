@@ -9,7 +9,7 @@ This package provides easy and fast simulation and parameter estimation for mult
 
 
 ```python
-# !python setup.py build_ext --inplace <- to convert cython file to c
+# !python setup.py build_ext --inplace <- to convert cython file to c (first time only)
 ```
 
 
